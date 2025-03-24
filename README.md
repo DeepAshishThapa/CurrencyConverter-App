@@ -35,6 +35,6 @@
       <pre><code>git clone https://github.com/DeepAshishThapa158/Currency-Converter-App.git</code></pre>
     </li>
 
-    <li><strong>Navigate to the project directory:</strong>
-      <pre><code>cd CURRENCYCONVERTER</code></pre>
+   <li><strong>Navigate to the project directory:</strong>
+      <pre><code>cd currency-converter</code></pre>
     </li>
