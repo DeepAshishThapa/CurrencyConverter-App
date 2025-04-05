@@ -32,7 +32,7 @@
    <p><strong>Installation & Usage</strong></p>
   <ol>
     <li><strong>Clone the repository:</strong>
-      <pre><code>git clone https://github.com/DeepAshishThapa158/Currency-Converter-App.git</code></pre>
+      <pre><code>https://github.com/DeepAshishThapa/CurrencyConverter-App.git</code></pre>
     </li>
 
    <li><strong>Navigate to the project directory:</strong>
