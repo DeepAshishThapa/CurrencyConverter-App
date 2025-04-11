@@ -38,4 +38,4 @@
    <li><strong>Navigate to the project directory:</strong>
       <pre><code>cd currency-converter</code></pre>
     </li>
-    hahahaha
+    
